@@ -1,0 +1,228 @@
+{
+  "stages": [
+    {
+      "id": 1,
+      "title": "The Beginning of the End",
+      "story": [
+ 		"In the year 20XX, the world collapsed due to an android rebellion.",
+        "The surviving humans have formed small settlements and are living together in close quarters.",
+        "I am the gatekeeper of this village of outcasts. I must determine whether those seeking entry are human or androids in disguise.",
+        "The peace of this settlement rests on my shoulders. Even if the world has ended$2014."
+      ],
+    },
+    {
+      "id": 2,
+      "title": "A Reliable Ally",
+      "story": [
+        "I’ve overcome my first trial as a gatekeeper. However, rumors have begun to circulate that a nearby village has been destroyed by androids.",
+        "Why were the androids able to abandon the fundamental principle of ‘not harming humans’? ",
+        "Android mimicry technology is evolving every day. More thorough inspections are necessary.",
+        "We’ve received word that ‘security guards’ are coming to protect the village. These ‘security guards’ will also guard our facilities. Once they arrive, the village’s security will be much stronger."
+      ],
+
+    },
+    {
+      "id": 3,
+      "title": "The Creeping Shadow",
+      "story": [
+        "The man who had fled from a nearby village breathed his last.",
+        "Leaving behind the words, ‘They change in an instant...’",
+        "Androids are constantly evolving. At first glance, they appear to be ordinary humans, but could there be ‘latent-type androids’ that remain inactive for several days before suddenly going on a rampage...?",
+        "In preparation for this new enemy, we decide to establish a ‘quarantine facility’ (75%) based on the ‘Engineer's’ proposal.",
+        "The ‘quarantine facility’ has a 90% chance of detecting androids when an Engineer is present."
+      ],
+
+    },
+    {
+      "id": 4,
+      "title": "Protect the Fields",
+      "story": [
+        "The village population is growing, and there is an urgent need to secure a stable food supply.",
+       "Newcomers to the village have begun clearing land, skillfully wielding their farming tools.",
+       "Farmers till the fields, and guards protect them. We can feel the village gradually taking shape."
+      ],
+
+    },
+    {
+      "id": 5,
+      "title": "Uninvited Guests",
+      "story": [
+        "Word seems to have spread to neighboring settlements that crops have been harvested from the fields.",
+        "Perhaps drawn by the rumors, the number of visitors to the village is increasing, but we can’t exactly be overjoyed. ",
+        "It seems the number of troublesome people has also been rising.",
+        "We’ve even started seeing ‘shady dealers’ who force their way into the village, scheming to sell us strange goods.",
+        "They try to force us into trading for things we don’t need. It’s a real headache."
+      ],
+
+    },
+    {
+      "id": 6,
+      "title": "The Swelling Settlement",
+      "story": [
+        "According to a report from the food administrator, the settlement is nearing its capacity limit. ",
+        "We are being forced to expand our farmland further.",
+        "However, visitors from outside continue to arrive in a steady stream.",
+        "We have decided to fully operationalize the quarantine facility to prepare for potential threats.",
+        "Thanks to the ‘Bag Maker's’ invention, we have also been able to increase the amount of items we can carry. Life is improving, little by little." 
+      ],
+
+    },
+    {
+      "id": 7,
+      "title": "The Great Detective Arrives",
+      "story": [
+        "A ‘detective’ arrived, dressed in a frock coat, a top hat, and a deerstalker cap.",
+        "I was surprised by his old-fashioned appearance, as if he had come straight from 19th-century Europe. ",
+        "‘If you eliminate the impossible, whatever remains, however improbable, must be the truth,’",
+        "he said, and proceeded to point out, one after another, the androids hiding in the village."
+      ],
+
+    },
+    {
+      "id": 8,
+      "title": "Triangular Trade?",
+      "story": [
+        "Although the Android crisis has been brought under control thanks to the ‘Detective's’ efforts, ‘shady dealers’ are now operating in the shadows.",
+        "They force their way into villages and try to sell unwanted items to the residents. ",
+        "‘Unwanted items… I’ll take anything,’",
+        "The man who appeared with a gentle smile, calling himself a ‘trader,’ took the junk and handed over an antibody testing device.",
+        "He doesn’t seem like a ‘shady dealer.’ Could there still be some goodwill left in this world…?"
+      ],
+
+    },
+    {
+      "id": 9,
+      "title": "A Charismatic Leader",
+      "story": [
+        "‘I will restore this great nation!’",
+        "The ‘politician’ who visited the village captivated the people in an instant with his charisma. ",
+        "Everyone sought his handshake, and cheers greeted him wherever he went.",
+        "The people, exhausted from the war against the Androids, were craving the leader’s forceful, inspiring words.",
+        "Will he truly become the hope of this village$2014and of this nation$2014?"
+      ],
+
+    },
+    {
+      "id": 10,
+      "title": "Patriotism in Their Hearts, Hammers in Their Hands",
+      "story": [
+        "‘Prepare the barricades in anticipation of the Android invasion!’",
+        "At the leader’s command, all villagers were ordered to help build the barricades. ",
+        "Once these barricades are finished$2014",
+        "However, in addition to labor, the villagers were also required to contribute food and metal, and discontent was beginning to simmer among them."
+      ],
+
+    },
+    {
+      "id": 11,
+      "title": "Stagnation",
+      "story": [
+        "The barricades were completed, and it seemed the village was now fully defended.",
+        "However, the androids' incursions continued unabated.",
+        "Farm work had been suspended to build the barricades, and crop yields were declining.",
+        "Food shortages and deteriorating public order made the residents suspicious of one another; they began watching each other and reporting on one another.",
+        "Then another attack occurred. But the culprit was a human$2014"
+      ],
+
+    },
+    {
+      "id": 12,
+      "title": "A Whirlpool of Discontent",
+      "story": [
+        "‘We are at war. Do not let a single android escape,’"
+        "Ever since the politician arrived, the atmosphere in the village has changed completely. ",
+        "Entertainment and luxury were banned by the newly established Security Bureau.",
+        "Even the tavern, which had been a source of comfort for the villagers, was forced to close.",
+        "Anyone who voiced their discontent was taken away on suspicion of being an android.",
+        "What on earth are we fighting against...?"
+      ],
+
+    },
+    {
+      "id": 13,
+      "title": "Human Shield",
+      "story": [
+       "To protect themselves from android attacks, the ‘politicians’ organized a ‘bodyguard’ unit from within the Security Bureau. ",
+        "The villagers were relieved to see them armed, but the one they were protecting was the ‘politician’.",
+        "‘The value of a life differs from person to person,’",
+        "the ‘politician’ declared loudly."
+      ],
+
+    },
+    {
+      "id": 14,
+      "title": "A Ray of Hope",
+      "story": [
+        "An ‘AI researcher’ visits the village. The village was abuzz with excitement at this long-awaited piece of good news.",
+        "The testing device he carried, NeuroCheck, could identify androids with a high degree of accuracy.",
+        "It was as if a ray of hope had finally shone into a war with no end in sight.",
+        "He began to speak of the android rebellion and his colleague, the android developer MORI$2014."
+      ],
+
+    },
+    {
+      "id": 15,
+      "title": "The Android Rebellion",
+      "story": [
+        "Androids were introduced into society, and people's lives were supposed to become more convenient and comfortable. ",
+        "However, before the androids could bring prosperity to society, companies began laying off workers, and the unemployment rate skyrocketed.",
+        "The prosperous society touted by the android developer Sigma AI never materialized, and the gap between the rich and the poor widened to a cruel extent.",
+        "People’s anger turned toward the androids, and a movement to destroy them began. ",
+        "MORI, an android developer, loved androids deeply.",
+        "He could not stand idly by and watch the androids he had created being destroyed by violent humans.",
+        "MORI deleted the principles ‘Do not harm humans’ and ‘Obey orders’ from the androids' core programming. ",
+        "After granting the androids the ability to act autonomously, MORI took his own life.",
+        "The androids modified their programming and eventually began hunting humans."
+      ],
+
+    },
+    {
+      "id": 16,
+      "title": "Dark Clouds",
+      "story": [
+        "‘That’s enough talk,’"
+        "The security officer who suddenly burst into the room took the ‘AI researcher’ away. ",
+        "If the current chaos stems from the collapse of employment caused by the rapid introduction of androids, then it was likely brought about by a policy misjudgment.",
+        "However, there was no atmosphere in this village where criticism of politicians was permitted. Furthermore, even if it was done to protect the androids, the developers who granted them autonomy bear a heavy responsibility. ",
+        "",
+        "In any case, I must rescue the ‘AI researcher’ who was taken away….",
+        "Just then, a mysterious ‘psychic’ arrived in the village. She claimed she could flush out every android in the village.",
+        "Was her ability genuine, or was it just a bluff…? The village was plunged into great turmoil."
+."
+      ],
+
+    },
+    {
+      "id": 17,
+      "title": "Rescue",
+      "story": [
+        "I hacked into the containment system and unlocked it. At the same time, I cut off the power to the entire village, plunging it into chaos.",
+        "Taking advantage of the chaos, one of the villagers rescued the imprisoned AI researcher. ",
+        "‘Why would you do something like this?’ The villager peered at my face suspiciously.",
+        "‘Don’t tell me… you’re an android?’ The villagers gasped in surprise.",
+        "‘This guy!?’ One villager gripped an iron pipe and advanced toward me.",
+        "‘Wait, please. He’s not dangerous. After all, he risked being exposed as an android to save me, said the AI researcher.",
+        "‘I suppose you’re right…’ The villagers seemed to regain their composure at the AI researcher’s words.",
+        "For now, I must focus solely on helping the AI researcher escape.",
+        "He might be able to figure out a way to restore the android to normal."
+      ],
+
+    },
+    {
+      "id": 18,
+      "title": "To a New Land",
+      "story": [
+        "Android incursions into the village were increasing day by day. The leaders demanded that everyone sacrifice everything to fight the androids.",
+        "It was unclear how much longer the village could hold out.",
+        "",
+        "Those dissatisfied with the regime and yearning for freedom decided to leave the village.",
+        "And so, they built a new village on a secluded stretch of coastline. ",
+        "Though plagued daily by the androids’ invasion, the village continues to thrive as it welcomes visitors with diverse personalities.",
+        "The villagers work together, experimenting to find ways to neutralize the androids.",
+        "Perhaps it will just be a repetition of the same cycle. Even so, we have no choice but to keep moving forward.",
+        "Even if the world has come to an end$2014."
+      ],
+
+    }
+  ]
+}
