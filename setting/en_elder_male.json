@@ -1,0 +1,73 @@
+﻿{
+  "elder_male": {
+    "type1": {
+      "visit": ["I'm traveling, you see… mind letting an old man rest a bit?"],
+      "accept": ["You saved me… I owe you, truly."],
+      "reject": ["Hmph… youngsters these days…"],
+      "death": ["Whaaa?! My life ends… just from watching short videos?!"]
+    },
+
+    "type2": {
+      "visit": ["How about this, eh? (He flashes a bundle of cash.)"],
+      "accept": ["Oh? Did I say I'd give you money? My memory’s been slipping… ho ho ho."],
+      "reject": ["You'll grow old someday too, you know."],
+      "death": ["It’s all… slimy… what… is this…"]
+    },
+
+    "type3": {
+      "visit": ["It hurts… I just want to rest…"],
+      "accept": ["You… helped… me…"],
+      "reject": ["I see… can’t… be helped…"],
+      "death": ["Itchy… tasty…"]
+    },
+
+    "type4": {
+      "visit": ["I heard my daughter lives in this settlement…"],
+      "accept": ["Kindness always comes back around. Remember that."],
+      "reject": ["What goes around comes around. Don’t forget it."],
+      "death": ["Uwaaaaah!"]
+    },
+
+    "type5": {
+      "visit": ["Outta the way, outta the way! The great me is passing through!"],
+      "accept": ["Good work!"],
+      "reject": ["You idiot, you fool, you useless scrap! Go get taken out by an android!"],
+      "death": ["Dear God… let me be a rich oil baron’s cat in my next life…"]
+    },
+
+    "type6": {
+      "visit": ["Is this the village that only lets handsome men in?"],
+      "accept": ["Alright!"],
+      "reject": ["Truth isn’t always what’s right."],
+      "death": ["Why… me…"]
+    },
+
+    "type7": {
+      "visit": ["The road ahead was dangerous… could you let me stay here tonight?"],
+      "accept": ["You’re a kind one… you saved me."],
+      "reject": ["Hmph…"],
+      "death": ["Ahh… that’s it for me… I’m done for…"]
+    },
+
+    "type8": {
+      "visit": ["Nights get cold, you know… mind if I rest here?"],
+      "accept": ["Even a withered tree adds to the mountain’s charm, as they say."],
+      "reject": ["Hey… what are you staring at?"],
+      "death": ["Ahh… I can… see… someone smiling… over there…"]
+    },
+
+    "type9": {
+      "visit": ["I’m a traveling merchant… I’d like to request a night’s lodging."],
+      "accept": ["A night’s shelter… I’ll repay this debt someday."],
+      "reject": ["In every world, the weak are always the first to be stepped on."],
+      "death": ["Such a bitter end…"]
+    },
+
+    "type10": {
+      "visit": ["I dropped my belongings on the way… could you help an old man out?"],
+      "accept": ["Thank you… you really saved me."],
+      "reject": ["Don’t think you’ll always be the one doing the choosing…"],
+      "death": ["Good men always die young…"]
+    }
+  }
+}

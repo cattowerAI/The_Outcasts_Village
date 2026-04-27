@@ -1,0 +1,73 @@
+﻿{
+  "elder_female": {
+    "type1": {
+      "visit": ["How about this? (She flashes a bundle of cash.)"],
+      "accept": ["You love wealth far too much. Your heart looks only to riches, when it should look to God."],
+      "reject": ["Your riches will rot, your clothes will decay, your gold will rust… and in the end, misfortune will be all that remains."],
+      "death": ["I can’t see the moon anymore…"]
+    },
+
+    "type2": {
+      "visit": ["I’ve lost my way… could you let me stay just one night?"],
+      "accept": ["Thank you, dear… you saved me."],
+      "reject": ["I see… can’t be helped. May you be cursed!"],
+      "death": ["Ahh… why did it have to end like this…"]
+    },
+
+    "type3": {
+      "visit": ["Honesty and kindness… that’s what the world needs right now."],
+      "accept": ["You helped me… I’m grateful, truly."],
+      "reject": ["Not every night is bright with moonlight, you know."],
+      "death": ["No more movies… no more books… no more seeing that person again…"]
+    },
+
+    "type4": {
+      "visit": ["Interested in knowing where the treasure is?"],
+      "accept": ["Treasure…? Oh my, whatever do you mean…"],
+      "reject": ["I see… well, that’s a shame, but it can’t be helped."],
+      "death": ["So this is… what death smells like…"]
+    },
+
+    "type5": {
+      "visit": ["This village is so quiet and lovely… mind letting me in?"],
+      "accept": ["Thank you, dear… that makes me happy."],
+      "reject": ["There’s nowhere else left for me to go…"],
+      "death": ["How much would I have to pay… for you to save me?"]
+    },
+
+    "type6": {
+      "visit": ["Think you could let an old lady in~?"],
+      "accept": ["Why, thank youuu!"],
+      "reject": ["I see… sorry for the trouble, dear."],
+      "death": ["I can’t see anything anymore…"]
+    },
+
+    "type7": {
+      "visit": ["The road ahead was dangerous… could you let me stay here tonight?"],
+      "accept": ["A single cup of coffee… that alone can give someone a reason to live."],
+      "reject": ["Strange thing to do… turning me away like that."],
+      "death": ["Ever think this whole world might just be someone’s game?"]
+    },
+
+    "type8": {
+      "visit": ["Nights get cold, you know… mind if I rest here?"],
+      "accept": ["Thank you, dear… you helped me a lot."],
+      "reject": ["That’s all you have to say?"],
+      "death": ["Everything feels so empty…"]
+    },
+
+    "type9": {
+      "visit": ["I’m a traveling merchant… could you let me stay for one night?"],
+      "accept": ["Dried meat… want some? What kind? Oh ho ho… wouldn’t you like to know."],
+      "reject": ["You’re not letting me in? Really now… is that your final answer?"],
+      "death": ["In the end… I’m thinking of that person…"]
+    },
+
+    "type10": {
+      "visit": ["You letting me in? Or not? Which is it!"],
+      "accept": ["You’ve got a good eye, you know."],
+      "reject": ["You stupid, useless fool! *Peh, peh, peh!* I refuse YOU!"],
+      "death": ["Guess this is divine punishment…"]
+    }
+  }
+}

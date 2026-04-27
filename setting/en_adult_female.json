@@ -1,0 +1,73 @@
+﻿{
+  "adult_female": {
+    "type1": {
+      "visit": ["I'm traveling… may I rest here for a moment?"],
+      "accept": ["Thank you so much. I truly appreciate it."],
+      "reject": ["I see… well, I understand."],
+      "death": ["The final episode of that drama… I never got to watch it…"]
+    },
+
+    "type2": {
+      "visit": ["Excuse me… could I stay in this village for the night?"],
+      "accept": ["Thank you, really. I owe you one."],
+      "reject": ["I see… sorry for asking… damn it!"],
+      "death": ["Flowers… they always fade so quickly…"]
+    },
+
+    "type3": {
+      "visit": ["Hey, you there. Allow me into this village at once."],
+      "accept": ["Good. You have done well."],
+      "reject": ["Fall into despair!"],
+      "death": ["Gyaaaaaaaah!"]
+    },
+
+    "type4": {
+      "visit": ["My luggage is so heavy… may I rest here for a bit?"],
+      "accept": ["How foolish… heh. Thank you, though."],
+      "reject": ["Tch… fine, whatever."],
+      "death": ["Cheap supermarket meat… gets tough no matter how you cook it…"]
+    },
+
+    "type5": {
+      "visit": ["This village is so quiet and lovely… may I come in?"],
+      "accept": ["Thank you. That means a lot to me."],
+      "reject": ["Are you kidding me?! I'm never coming back to this dump! Burn it down for all I care!"],
+      "death": ["Darling… I didn’t want to be alone… not here…"]
+    },
+
+    "type6": {
+      "visit": ["Are you sure I’ll be useful? Really sure?"],
+      "accept": ["See? You’ve got good taste, don’t you?"],
+      "reject": ["Wow… your judgment is terrible, you know that?"],
+      "death": ["What a harsh world we live in…"]
+    },
+
+    "type7": {
+      "visit": ["I heard my family lives in this village, so I came to visit."],
+      "accept": ["Thank you. You really saved me."],
+      "reject": ["No heart at all… are you an android or something?"],
+      "death": ["Aaaaaaaah!"]
+    },
+
+    "type8": {
+      "visit": ["The night road scared me… may I rest here for a while?"],
+      "accept": ["Thank you. I feel much safer now."],
+      "reject": ["Are you sure you won’t regret this?"],
+      "death": ["I just wanted a little fresh night air… that’s all…"]
+    },
+
+    "type9": {
+      "visit": ["Hey! I like this village. Let me in, yeah?"],
+      "accept": ["You good person. We friends now."],
+      "reject": ["You… mean…"],
+      "death": ["Why this happen…"]
+    },
+
+    "type10": {
+      "visit": ["I dropped my belongings on the way here… could you please help me?"],
+      "accept": ["Thank you… you really helped me."],
+      "reject": ["I see…"],
+      "death": ["The culprit… doesn’t matter anymore…"]
+    }
+  }
+}

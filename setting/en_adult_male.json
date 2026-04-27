@@ -1,0 +1,73 @@
+﻿{
+  "adult_male": {
+    "type1": {
+      "visit": ["I'm traveling… could you let me into the village?"],
+      "accept": ["You’ve helped me a lot. I owe you one."],
+      "reject": ["I see… well, it can’t be helped."],
+      "death": ["Here… of all places… why…"]
+    },
+
+    "type2": {
+      "visit": ["I'm not an android, okay? Seriously, I'm not."],
+      "accept": ["Hey, people say you're pretty good at your job, right?"],
+      "reject": ["I'm never coming back to this dump! You worthless piece of?!"],
+      "death": ["Ahh… yeah, this is bad…"]
+    },
+
+    "type3": {
+      "visit": ["I got lost on the road… let me stay just for one night."],
+      "accept": ["You saved me. Thanks."],
+      "reject": ["You'll face rejection someday too, you know."],
+      "death": ["Gwaaaaaaah!"]
+    },
+
+    "type4": {
+      "visit": ["Nice place. I could use it as my third vacation home, you know."],
+      "accept": ["Hah! No need to bow, everyone. Raise your heads."],
+      "reject": ["This village should just be burned down by androids!"],
+      "death": ["No?! Hey! You! Stop?!"]
+    },
+
+    "type5": {
+      "visit": ["This village is quiet… I like it. Mind letting me in?"],
+      "accept": ["Heh heh heh… thanks."],
+      "reject": ["I see… then I'll look for another village."],
+      "death": ["Why does this always happen to me…"]
+    },
+
+    "type6": {
+      "visit": ["I'm a bit tired… mind letting me rest here?"],
+      "accept": ["Oh? You're letting me in?"],
+      "reject": ["Just as I thought…"],
+      "death": ["What a hard?boiled world…"]
+    },
+
+    "type7": {
+      "visit": ["The road ahead was blocked… could I stay here for the night?"],
+      "accept": ["Thanks. That really helps."],
+      "reject": ["No gods, no mercy… huh."],
+      "death": ["Oh… dear gods…"]
+    },
+
+    "type8": {
+      "visit": ["The night road was dangerous… could I rest here?"],
+      "accept": ["Lucky me… heh."],
+      "reject": ["I see… can’t be helped."],
+      "death": ["An octopus has three hearts…"]
+    },
+
+    "type9": {
+      "visit": ["I’m useful, y’know? Really useful, yeah?"],
+      "accept": ["See? You get it, don’t you?"],
+      "reject": ["Aw, come on… that’s cold, man…"],
+      "death": ["That hurts, man… really hurts…"]
+    },
+
+    "type10": {
+      "visit": ["G-G-G-G… LET… ME… IN… THIS… VILLAGE…?"],
+      "accept": ["TH… THANK YOU… I… AM… TOTALLY… HUMAN!"],
+      "reject": ["YOU… WILL… REGRET… THIS…"],
+      "death": ["G-G-G-G-G…"]
+    }
+  }
+}
